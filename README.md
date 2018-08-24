@@ -19,7 +19,6 @@ Getting Code Base
 5.	Project will start downloading all the dependencies and plugins
 URL and Browser Configuration
 
-As shown below
 1.	Go to path src\main\resources\Config.properties
 2.	URL of website can be changed from URL property
 3.	TO select which browser to launch for automation use browserName property
